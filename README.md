@@ -1,4 +1,4 @@
-# Face_Emotion_Classifier_WithoutTL
+# Face_Emotion_Classifier
 Objective:
 To create a neural network capable of detecting expressions of human beings from an image.
 
